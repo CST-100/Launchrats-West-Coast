@@ -1,2 +1,4 @@
 name: LaunchRats West Coast
 markdown: kramdown
+
+theme: jekyll-theme-cayman
