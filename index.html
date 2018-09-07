@@ -6,3 +6,10 @@ title: LaunchRats West Coast
   <h1> Home page </h1>
   <p> This is a test. More info will be up here later. Check the README.md posted on the sidebar for more info. <a href="/about">Another Test</a></p>
   </div><!-- /.blurb -->
+<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
