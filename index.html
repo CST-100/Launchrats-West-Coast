@@ -7,9 +7,14 @@ title: LaunchRats West Coast
   <p> This is a test. More info will be up here later. Check the README.md posted on the sidebar for more info. <a href="/about">Another Test</a></p>
   </div><!-- /.blurb -->
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+   {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
