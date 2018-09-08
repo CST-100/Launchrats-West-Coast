@@ -3,7 +3,7 @@
 
    As you may have heard, Delta II is on its way out. With the last 79xx (9 booster configuration) launching last November with JPSS-1, the booster only has one final mission: ICESat-2.
 
-   This mission will fly on a Delta II 7320-10C. If you have absolutely no idea what any of that means, it’s a 7000-series (The current Delta configurations are 10000-series aka Delta IV) Delta II, with 3 GEM-40 boosters, an AJ-10 for the second stage, no third stage, and a 10 foot fairing. ICESat-2 itself is a NASA satellite built to map the terrain of the arctic, by using a LIDAR system. Originally supposed to launch 2 years ago, it was rescheduled after a problem with said LIDAR system (which happens to be the only experiment on the entire satellite). 
+   This mission will fly on a Delta II 7420-10C. If you have absolutely no idea what any of that means, it’s a 7000-series (The current Delta configurations are 10000-series aka Delta IV) Delta II, with 4 GEM-40 boosters, an AJ-10 for the second stage, no third stage, and a 10 foot fairing. ICESat-2 itself is a NASA satellite built to map the terrain of the arctic, by using a LIDAR system. Originally supposed to launch 2 years ago, it was rescheduled after a problem with said LIDAR system (which happens to be the only experiment on the entire satellite). 
 
    Its launch date is September 15, 2018. When it does launch, it will enter a roughly circular 496 kilometer orbit around the Earth, at a near polar 92 degree inclination. This mission will hopefully be Delta II’s 100th consecutive successful mission and its 154th successful mission, an unparalleled record.
 
