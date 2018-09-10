@@ -1,12 +1,13 @@
 ## Launch Schedule:
 (All times are in local (pacific) time.)
+NET = No Earlier Than
 
 ### ICESat-2
 **Launch Provider:** United Launch Alliance
 
 **Vehicle:** Delta II 7420-10C
 
-**Launch Window:** September 15, 5:46-8:20 AM
+**Launch Window:** September 15, 5:46-6:26 AM (40 minutes)
 
 **Launch Pad:** SLC-2W
 
