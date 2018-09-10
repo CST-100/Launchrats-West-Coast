@@ -1,5 +1,5 @@
 # LaunchRats West Coast
-### DEV b0.6
+### DEV b0.6.1
 
 LaunchRats West Coast has been ported to GitHub pages! A lot of changes are coming soon relating to the ICESat-2 mission. Check the project under "projects" for more info!
 
