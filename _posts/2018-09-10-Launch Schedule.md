@@ -12,18 +12,6 @@
 
 ---
 
-### NROL-71
-
-**Launch Provider:** United Launch Alliance
-
-**Vehicle:** Delta IV Heavy
-
-**Launch Window:** September 26 (Exact time classified)
-
-**Launch Pad:** SLC-6
-
----
-
 ### SAOCOM-1A
 
 **Launch Provider:** SpaceX
@@ -36,3 +24,14 @@
 
 **Landing Pad:** SLC-4W
 
+---
+
+### NROL-71
+
+**Launch Provider:** United Launch Alliance
+
+**Vehicle:** Delta IV Heavy
+
+**Launch Window:** December 3 (Exact time classified)
+
+**Launch Pad:** SLC-6
