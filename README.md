@@ -1,6 +1,6 @@
 # LaunchRats West Coast
-### DEV r.0.5
+### DEV b0.6
 
-I'm testing porting over my side project, LaunchRats West Coast, over here to github pages.
+LaunchRats West Coast has been ported to GitHub pages! A lot of changes are coming soon relating to the ICESat-2 mission. Check the project under "projects" for more info!
 
 In case you don't know, Launchrats.com is currently a website developed by @WaywardPlane on twitter and covers all of the things going on at Kennedy Space Center. This is the West Coast version of that!
