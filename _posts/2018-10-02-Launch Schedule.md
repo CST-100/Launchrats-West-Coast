@@ -9,7 +9,7 @@ NET = No Earlier Than
 
 **Vehicle:** Falcon 9 Block 5, RTLS
 
-**Launch Window:** NET October 6
+**Launch Window:** October 6, 7:22 PM
 
 **Launch Pad:** SLC-4E
 
@@ -28,3 +28,14 @@ NET = No Earlier Than
 **Launch Pad:** SLC-6
 
 ---
+
+### Unscheduled Launches
+*All launches without a confirmed date*
+
+**November:**
+
+Iridium NEXT Flight 8 - Falcon 9
+
+SSO-A - Falcon 9
+
+RADARSAT - Falcon 9
