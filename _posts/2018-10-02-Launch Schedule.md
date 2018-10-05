@@ -9,7 +9,7 @@ NET = No Earlier Than
 
 **Vehicle:** Falcon 9 Block 5, RTLS
 
-**Launch Window:** October 6, 7:22 PM
+**Launch Window:** October 7, 7:22 PM
 
 **Launch Pad:** SLC-4E
 
