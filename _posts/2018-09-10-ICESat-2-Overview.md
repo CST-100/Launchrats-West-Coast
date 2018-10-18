@@ -1,6 +1,5 @@
 # ICESat-2 Mission Overview
 ### Viewing locations, launch information, and more.
-*by Coolstorm*
 
    We're now about 5 days away from the final flight of Delta II! This final flight will carry ICESat-2, a mission that will help map the terrain of the poles. For more information about that and what happens after the mission, see the post [Delta II: End of an Era](http://west.launchrats.com/2018/09/07/Delta-II-End-of-an-Era). ICESat-2 will fly on a Delta II 7420-10C, aka a Delta II with 4 boosters. It launches from SLC-2W, one of the trickier launch sites to get near. However, there's still a few places you can try.
    
