@@ -3,13 +3,12 @@
 NET = No Earlier Than
 ---
 
-### SAOCOM-1A
-
+### SSO-A
 **Launch Provider:** SpaceX
 
 **Vehicle:** Falcon 9 Block 5, RTLS
 
-**Launch Window:** October 7, 7:22 PM
+**Launch Window:** November 19
 
 **Launch Pad:** SLC-4E
 
@@ -35,7 +34,5 @@ NET = No Earlier Than
 **November:**
 
 Iridium NEXT Flight 8 - Falcon 9
-
-SSO-A - Falcon 9
 
 RADARSAT - Falcon 9
