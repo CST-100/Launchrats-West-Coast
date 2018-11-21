@@ -6,9 +6,9 @@ NET = No Earlier Than
 ### SSO-A
 **Launch Provider:** SpaceX
 
-**Vehicle:** Falcon 9 Block 5, RTLS
+**Vehicle:** Falcon 9 Block 5, 40km ASDS
 
-**Launch Window:** November 19, 10:32 AM
+**Launch Window:** November 27, 10:32 AM
 
 **Launch Pad:** SLC-4E
 
