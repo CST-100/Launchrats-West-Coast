@@ -8,11 +8,11 @@ NET = No Earlier Than
 
 **Vehicle:** Falcon 9 Block 5, 40km ASDS
 
-**Launch Window:** November 27, 10:32 AM
+**Launch Window:** December 1, 10:32 AM
 
 **Launch Pad:** SLC-4E
 
-**Landing Pad:** SLC-4W
+**Landing Pad:** ASDS "Just Read The Instructions"
 
 ---
 
@@ -22,7 +22,7 @@ NET = No Earlier Than
 
 **Vehicle:** Delta IV Heavy
 
-**Launch Window:** November 29 (Exact time classified)
+**Launch Window:** December 7 (Exact time classified)
 
 **Launch Pad:** SLC-6
 
@@ -37,6 +37,8 @@ NET = No Earlier Than
 **Launch Window:** December 30, 8:38 AM
 
 **Launch Pad:** SLC-4E
+
+**Landing Pad:** ASDS "Just Read The Instructions"
 
 ---
 
