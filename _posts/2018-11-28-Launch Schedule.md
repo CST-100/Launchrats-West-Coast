@@ -8,7 +8,7 @@ NET = No Earlier Than
 
 **Vehicle:** Falcon 9 Block 5, 40km ASDS
 
-**Launch Window:** December 1, 10:32 AM
+**Launch Window:** December 2, 10:32 AM
 
 **Launch Pad:** SLC-4E
 
